@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LAB2_MADT</string>
+    <string name="selection_chars">Chars</string>
+    <string name="selection_words">Words</string>
+    <string name="selection_numbers">Numbers</string>
+    <string-array name="selection_options">
+        <item>Chars</item>
+        <item>Words</item>
+        <item>Numbers</item>
+    </string-array>
+</resources>
